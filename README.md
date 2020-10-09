@@ -22,3 +22,6 @@ In some cases, it is difficult to distinguish certain benign masses from maligna
 Data Source(1) :- https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 Data Source(2) :-https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/
+
+# Blog
+https://medium.com/@kishan_122/machine-learning-for-breast-cancer-diagnosis-189928ffb8bc
