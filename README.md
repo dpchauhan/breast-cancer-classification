@@ -1,5 +1,5 @@
 # Machine Learning for Breast Cancer Diagnosis
-Can we accurately distinguish cancerous cell?
+# Can we accurately distinguish cancerous cell?
 
 
 # Problem Description
@@ -7,12 +7,14 @@ Breast Cancer (BC) is a common cancer for women around the world, and early dete
 In some cases, it is difficult to distinguish certain benign masses from malignant lesions with mammography.So our task to classify that the beast contains benign cell or malignant cell.
 
 # Pre-Requisites
-  Pre-Requisites
-  
   Python 3.+
+  
   Understanding of libraries (Scikit Learn, Numpy, Pandas, Matplotlib, Seaborn)
+  
   Jupyter Notebook or Google Colab
+  
   Orange Tool
+  
   Basic understanding of classification methods or Algorithms.
   
   
